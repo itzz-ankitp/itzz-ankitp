@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web and app development.<br>I'm looking to collaborate on building business application.<br>I'm currently learning JavaScript,Arduino and Python.
+I'm currently working on web and app development.<br>I'm looking to collaborate on building business application.<br>I'm currently learning Java,Arduino and Python.
 
 
 ## 🌐 Socials:
