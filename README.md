@@ -16,4 +16,4 @@ The name's Ankit,Passionate about Technology.<br>I'm currently working on web an
 ![](https://github-profile-trophy.vercel.app/?username=itzz-ankitp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzz-ankitp&icon=0&color=0)](https://visitcount.itsvg.in)
+<![![](https://visitcount.itsvg.in/api?id=itzz-ankitp&icon=0&color=0)](https://visitcount.itsvg.in)>
